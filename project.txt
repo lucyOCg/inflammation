@@ -1,1 +1,2 @@
 Some initial analysis about how to identify inflammation changes over time.
+Jane is a data scientist.
