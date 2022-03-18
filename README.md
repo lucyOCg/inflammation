@@ -1,3 +1,3 @@
-# inflammation
+# Inflammation
 
 My first repository
